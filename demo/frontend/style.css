@@ -1,0 +1,194 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+#app {
+  /*display: flex;
+  flex-wrap: nowrap; */ /* This prevents the div from being scrollable*/
+  width: 100%;
+  position: relative;
+  overflow-x: scroll;
+}
+
+.stroked-text{
+  /*-webkit-text-stroke: 1px #ffffff; this one does not work on svg text elements*/
+  /*stroke: #ffffff; this adds to the inside of the text
+  stroke-width: 0.5px;*/
+  text-shadow:
+    -1px -1px 0 #fff,
+    0px -1px 0 #fff,
+    1px -1px 0 #fff,
+    1px 0px 0 #fff,
+    1px 1px 0 #fff,
+    0px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    -1px 0px 0 #fff;
+}
+
+.animated-path{
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0; /* push by 100 pixels?*/
+  }
+}
+
+.station-arcs{
+  fill: #ffffff;
+  stroke-width: 4px;
+  cursor: pointer;
+  stroke: #424242;
+}
+
+/* labels styles */
+
+tspan{
+  font-size: 14px;
+}
+
+.relation-labels{
+  font-size: 12px;
+}
+
+
+.text-display{
+  font-weight: bold;
+  font-size: 14px; /* 0.7rem */
+
+}
+
+.people-labels{
+  fill: #CB1B45;
+  font-weight: bold;
+}
+
+.labels{
+  vertical-align: middle;
+  z-index: 1;
+}
+
+.horizontal-bars{
+  opacity: 1;
+}
+
+/* time labels styles*/
+
+.time-labels{
+  text-anchor: middle;
+}
+
+/* storylines styles*/
+
+.path-movable{
+  fill: none;
+}
+
+.storyline-ego{
+  stroke-width: 5.5;
+}
+
+.storyline-alter{
+  stroke-width: 2;
+}
+
+.storyline-hover, .storyline-pin{
+  stroke-width: 4;
+}
+
+.storyline-dehighlight, .storyline-unpin{
+  opacity: 0.1;
+}
+
+.storyline-arc-dehighlight{
+  opacity: 0.1;
+}
+
+.storyline-label-dehighlight{
+  opacity: 0;
+}
+
+.storyline-pin, .stoyline-hover{
+  opacity: 1 !important;
+}
+
+.board-text{
+  fill: #ffffff;
+  opacity: 0.8;
+  text-anchor: middle;
+  font-weight: bold;
+}
+
+/* node styles*/
+
+.points{
+  stroke: #424242;
+  stroke-width: 0.5px;
+}
+
+.content-tooltip {
+  position: absolute;
+  pointer-events: none;
+  left: 0;
+  top: 0;
+  background: #ffffff;
+  border-radius: .2rem;
+  padding: .5rem .5rem;
+  font-size: 0.7rem;
+  text-overflow: ellipsis;
+  color: #212121;
+  z-index: 300;
+  visibility: hidden;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+  text-align: center;
+}
+
+.filter{
+  display: flex;
+  font-size: 14px;
+  padding-right: 2rem;
+}
+
+#filter-container{
+  position: absolute;
+  text-align: center;
+}
+
+input[type='range']{ 
+  accent-color: #757575; 
+}
+
+.filter-label{
+  padding-left: 5px;
+  padding-top: 2.5px;
+  font-weight: bold;
+}

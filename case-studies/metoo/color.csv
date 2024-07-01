@@ -1,0 +1,133 @@
+date,entity,side,support,oppose,neutral,count,positive,neutral.1,negative,attitude
+2023-09-07,Men,Support,1,0,0,1,0,0,1,-1.0
+2023-09-07,Scientology,Support,1,0,0,1,0,1,0,-100.0
+2023-09-07,Defence,Support,1,0,0,1,0,1,0,-100.0
+2023-09-07,30 years in prison,Neutral,0,0,2,2,0,2,0,-100.0
+2023-09-07,First jury,Support,1,0,0,1,0,1,0,-100.0
+2023-09-07,Verbal evidence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-07,Controversy,Neutral,0,0,1,1,0,1,0,-100.0
+2023-09-07,Re-trial,Support,1,0,0,1,0,1,0,-100.0
+2023-09-07,#MeToo,Neutral,0,0,2,2,0,2,0,-100.0
+2023-09-07,30 years to life,Support,2,0,0,2,1,0,1,0.0
+2023-09-07,Kevin Spacey,Support,1,0,0,1,0,0,1,-1.0
+2023-09-07,Sexual encounters,Oppose,0,1,2,3,0,2,1,-0.3333333333333333
+2023-09-07,No physical evidence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-07,Predator,Support,1,0,0,1,0,0,1,-1.0
+2023-09-07,Guilty verdict,Support,1,0,0,1,1,0,0,1.0
+2023-09-07,#MeToo moral panic,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-07,Sexual assault,Support,1,0,2,3,0,3,0,-100.0
+2023-09-07,Sentence,Oppose,0,2,2,4,0,0,1,-0.3333333333333333
+2023-09-07,Justice,Support,3,0,0,3,2,0,1,0.3333333333333333
+2023-09-07,The '70s Show,Oppose,0,1,2,3,0,3,0,-100.0
+2023-09-07,Hollywood,Oppose,0,1,2,3,0,3,0,-100.0
+2023-09-08,#MeToo,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-08,30 years to life,Support,3,0,0,3,2,0,1,0.3333333333333333
+2023-09-08,Consensual,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Predator,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Family,Support,1,0,0,1,1,0,1,0.0
+2023-09-08,Scientology,Support,2,0,0,2,0,1,1,-1.0
+2023-09-08,Crusaders,Oppose,0,1,0,1,0,1,1,-1.0
+2023-09-08,Sexual assault,Support,2,0,0,2,0,1,1,-1.0
+2023-09-08,Sentence,Support,3,0,0,3,1,2,0,1.0
+2023-09-08,Mila Kunis,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Irresponsible,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Lizzo,Oppose,0,1,0,1,0,1,0,-100.0
+2023-09-08,Brock Turner,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Ashton Kutcher,Support,1,0,0,1,0,0,1,-1.0
+2023-09-08,Hope,Support,2,0,0,2,1,1,0,1.0
+2023-09-08,Justice,Support,4,0,0,4,2,1,1,0.3333333333333333
+2023-09-08,Survivor,Support,3,0,0,3,3,0,0,1.0
+2023-09-09,Ashley Hinshaw,Support,1,0,0,1,1,0,0,1.0
+2023-09-09,Scientology,Support,1,0,0,1,0,1,0,-100.0
+2023-09-09,Verbal evidence,Oppose,0,2,0,2,0,0,2,-1.0
+2023-09-09,#MeToo,Oppose,0,2,0,2,0,0,2,-1.0
+2023-09-09,Mila Kunis,Support,1,0,0,1,0,0,1,-1.0
+2023-09-09,Statute of limitations,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-09,Ashton Kutcher,Support,1,0,0,1,0,0,1,-1.0
+2023-09-09,Conan O'Brien,Support,1,0,0,1,0,1,0,-100.0
+2023-09-09,#MeToo Comeback,Support,1,0,0,1,1,0,0,1.0
+2023-09-09,No physical evidence,Oppose,0,2,0,2,0,0,2,-1.0
+2023-09-09,Survivor,Support,1,0,0,1,1,0,0,1.0
+2023-09-09,Women,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-09,Predator,Support,2,0,0,2,0,0,2,-1.0
+2023-09-09,Crusaders,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-09,Sentence,Oppose,0,2,0,2,0,0,2,-1.0
+2023-09-09,Wilmer Valderrama,Support,1,0,0,1,0,0,1,-1.0
+2023-09-09,Bad reputation with women,Support,1,0,0,1,0,0,1,-1.0
+2023-09-09,Ambush,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-09,Bad reputation,Support,1,0,0,1,0,0,1,-1.0
+2023-09-09,Justice,Support,1,0,0,1,0,0,1,-1.0
+2023-09-10,Liars,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-10,Robbery,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-10,#MeToo,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-10,Apology,Support,2,0,0,2,0,0,2,-1.0
+2023-09-10,Donald Trump,Support,1,0,0,1,0,0,1,-1.0
+2023-09-10,Cult,Support,1,0,0,1,0,0,1,-1.0
+2023-09-10,Guilty,Support,3,0,0,3,0,1,2,-1.0
+2023-09-10,Scientology,Support,2,0,0,2,0,0,2,-1.0
+2023-09-10,Republicans,Support,1,0,0,1,0,0,1,-1.0
+2023-09-10,Sexual assault,Support,1,0,0,1,0,0,1,-1.0
+2023-09-10,Mila Kunis,Support,3,0,0,3,0,1,3,-1.0
+2023-09-10,Victims,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-10,Ashton Kutcher,Support,3,0,0,3,0,0,3,-1.0
+2023-09-10,Hope,Support,1,0,0,1,1,0,0,1.0
+2023-09-10,Justice,Support,2,0,0,2,1,1,0,1.0
+2023-09-10,Survivor,Support,4,0,0,4,2,2,0,1.0
+2023-09-11,Crusaders,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-11,#MeToo,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-12,No physical evidence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-12,Sentence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-13,#MeToo,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-13,Cult,Support,1,0,0,1,0,0,1,-1.0
+2023-09-13,Harvey Weinstein,Support,1,0,0,1,0,0,1,-1.0
+2023-09-13,Scientology,Support,1,0,0,1,0,0,1,-1.0
+2023-09-13,Sexual assault,Support,1,0,0,1,0,0,1,-1.0
+2023-09-13,Mila Kunis,Support,2,0,0,2,0,0,2,-1.0
+2023-09-13,Sentence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-13,Verbal evidence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-13,Ashton Kutcher,Support,2,0,0,2,0,0,2,-1.0
+2023-09-13,Survivor,Support,2,0,0,2,0,0,2,-1.0
+2023-09-14,Verbal evidence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-14,Sentence,Oppose,0,1,0,1,0,0,1,-1.0
+2023-09-15,Mila Kunis,Support,1,0,0,1,0,0,1,-1.0
+2023-09-15,Survivor,Support,1,0,0,1,0,1,0,-100.0
+2023-09-15,Ashton Kutcher,Support,1,0,0,1,0,0,1,-1.0
+2023-09-16,#MeToo,Support,1,0,2,3,0,2,1,-0.3333333333333333
+2023-09-16,Predator,Support,1,0,2,3,0,2,1,-0.3333333333333333
+2023-09-16,Mila Kunis,Support,1,0,0,1,0,0,1,-1.0
+2023-09-16,Russell Brand,Support,1,0,2,3,0,1,2,-0.5
+2023-09-16,Ashton Kutcher,Support,1,0,0,1,0,1,2,-1.0
+2023-09-16,Justice,Support,1,0,0,1,0,1,1,-1.0
+2023-09-16,Survivor,Support,1,0,0,1,0,1,0,-100.0
+2023-09-17,#MeToo,Oppose,0,1,0,1,0,1,0,-100.0
+2023-09-17,Predator,Support,1,0,0,1,0,0,1,-1.0
+2023-09-17,Mila Kunis,Support,1,0,0,1,0,0,1,-1.0
+2023-09-17,Russell Brand,Oppose,0,1,1,2,0,1,1,-0.5
+2023-09-17,Ashton Kutcher,Support,1,0,0,1,0,0,2,-1.0
+2023-09-17,Survivor,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Abusers,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Predator,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Sentence,Oppose,0,1,0,1,0,1,1,-1.0
+2023-09-18,Verbal evidence,Oppose,0,1,0,1,0,1,1,-1.0
+2023-09-18,Dispatches,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Russell Brand,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Christina Ricci,Support,1,0,0,1,0,1,0,-100.0
+2023-09-18,Justice,Support,1,0,0,1,1,0,0,1.0
+2023-09-18,Awesome guys,Support,1,0,0,1,0,0,1,-1.0
+2023-09-19,Bijou Phillips,Neutral,0,0,2,2,0,1,0,-100.0
+2023-09-19,#MeToo,Neutral,0,0,2,2,0,1,0,-100.0
+2023-09-19,Sentence,Neutral,0,0,2,2,0,1,0,-100.0
+2023-09-19,Divorce,Neutral,0,0,2,2,0,1,0,-100.0
+2023-09-07,Danny Masterson,Ego,0,0,0,0,3,1,3,0.0
+2023-09-08,Danny Masterson,Ego,0,0,0,0,0,3,4,-1.0
+2023-09-09,Danny Masterson,Ego,0,0,0,0,3,1,4,-0.14285714285714285
+2023-09-10,Danny Masterson,Ego,0,0,0,0,1,2,4,-0.6
+2023-09-11,Danny Masterson,Ego,0,0,0,0,1,0,0,1.0
+2023-09-12,Danny Masterson,Ego,0,0,0,0,1,1,0,1.0
+2023-09-13,Danny Masterson,Ego,0,0,0,0,0,2,2,-1.0
+2023-09-14,Danny Masterson,Ego,0,0,0,0,1,0,0,1.0
+2023-09-15,Danny Masterson,Ego,0,0,0,0,0,1,0,-100.0
+2023-09-16,Danny Masterson,Ego,0,0,0,0,0,2,1,-1.0
+2023-09-17,Danny Masterson,Ego,0,0,0,0,1,3,0,1.0
+2023-09-18,Danny Masterson,Ego,0,0,0,0,0,2,1,-1.0
+2023-09-19,Danny Masterson,Ego,0,0,0,0,0,2,0,-100.0

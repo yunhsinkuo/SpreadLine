@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Seals</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="filter-container" class="filter">
+        <div class="filter">
+          <input type="range" id="length" name="length" min="1" max="50" value="1">
+          <output class='filter-label' for="length" id="length-display">1</output>
+          <label class="filter-label" for="length" id="length-title"></label>
+        </div>
+        <div class="filter">
+          <input type="checkbox" id="crossing" name="crossing" />
+          <label class="filter-label" for="crossing">Only show crossing lines</label>  
+        </div>
+      </div>
+      <svg id="story-svg" width="100%" height="100%" ></svg>
+    </div>
+    <!-- <script type="module" src="/main.js"></script> -->
+    <!-- <script type="module" src="/draw.js"></script> -->
+    <script type="module" src="/interface.js"></script>
+    <!-- <script type="module" src="/baseline.js"></script> -->
+  </body>
+</html>
