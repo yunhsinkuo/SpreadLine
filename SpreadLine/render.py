@@ -175,7 +175,7 @@ class Renderer():
 
         for rIdx in range(0, numEntities):
             marks = self.origin[rIdx]
-            invalidity = np.array([np.array_equal(each, np.array([-1, -1])) for each in marks])
+            invalidity = np.array([np.array_equal(each, np.array([-1, -1])) if each.dtype!='O' else False for each in marks])
             #TODO: using original way to get the color will cause bugs, e.g., someone in 2008 but the timeList computes 2005 instead
             valids = np.nonzero(~invalidity)[0]
             lines = []
@@ -237,7 +237,7 @@ class Renderer():
 
         for rIdx in range(0, numEntities):
             marks = self.origin[rIdx]
-            invalidity = np.array([np.array_equal(each, np.array([-1, -1])) for each in marks])
+            invalidity = np.array([np.array_equal(each, np.array([-1, -1])) if each.dtype!='O' else False for each in marks])
             valids = np.nonzero(~invalidity)[0]
             update = storylines[rIdx]
             lineStart: [[float, float], float] = marks[valids[0]]
