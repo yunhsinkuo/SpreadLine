@@ -1,5 +1,6 @@
 # SpreadLine
 A visualization design framework that supports the exploration of dynamic multivariate networks from the egocentric perspective.
+This repo is part of the research paper "SpreadLine: Visualizing Egocentric Dynamic Influence" ([link](https://ieeexplore.ieee.org/document/10680192)), published in IEEE Transactions on Visualization and Computer Graphics.
 
 ## Introduction
 - Source code can be found in `./SpreadLine`
@@ -17,3 +18,19 @@ pip install .
 
 ## Roadmap
 - Code documentations and cleanup.
+
+## How to Cite
+If you use any parts of this repo, please cite:
+```
+Kuo, Y.-H., Liu, D., & Ma, K.-L. (2024). SpreadLine: Visualizing egocentric dynamic influence. IEEE Transactions on Visualization and Computer Graphics.
+```
+or in bibtex:
+```
+@article{kuo2024spreadline,
+  title={SpreadLine: Visualizing egocentric dynamic influence},
+  author={Kuo, Yun-Hsin and Liu, Dongyu and Ma, Kwan-Liu},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2024},
+  publisher={IEEE}
+}
+```
